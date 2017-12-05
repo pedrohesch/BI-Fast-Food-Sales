@@ -11,4 +11,4 @@ Calendar2017.png = Calendar View using Calendar Plot. 2017 daily sales.
 Calendar2014_2017.png =  Calendar View using Calendar Heat. 2014 to 2017 daily sales.
 
 
-obs: there are few missing values on the system.
+obs: there are few missing values on the system. The 2017 data ends on November, once the project was developed at this time.
